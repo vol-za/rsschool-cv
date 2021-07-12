@@ -10,7 +10,7 @@ Framework: Hibernate, Spring MVC, Spring Data, Spring Security;
 Database: PostgreSQL, MySql, H2; 
 Webserver: Apache; 
 Tool: IntelliJ IDEA, Visual Studio Code; 
-English: B1+.
+English: B1.
 ## **Education**
 Belarusian State Technological University, **2021**.
 Specialization: **Information Systems and Technology**.
